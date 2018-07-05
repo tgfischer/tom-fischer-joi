@@ -1,0 +1,28 @@
+{
+  "name": "tom-fischer-joi",
+  "version": "1.0.0",
+  "description": "Joi validation schemas for Tom Fischer's projects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgfischer/tom-fischer-joi.git"
+  },
+  "author": "Tom Fischer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgfischer/tom-fischer-joi/issues"
+  },
+  "homepage": "https://github.com/tgfischer/tom-fischer-joi#readme",
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.1",
+    "prettier": "^1.13.7"
+  },
+  "dependencies": {
+    "joi": "^13.4.0"
+  }
+}
